@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "داري وسيارتي",
+    "slug": "dari-wsayarti",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "mr.dariwsayarti.app" },
+    "ios": { "bundleIdentifier": "mr.dariwsayarti.app" }
+  }
+}
